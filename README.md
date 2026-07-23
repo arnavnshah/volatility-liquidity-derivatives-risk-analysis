@@ -25,12 +25,6 @@ This project develops a derivatives risk analytics framework using Python and re
 - Matplotlib
 - yfinance
 
-## Repository Structure
-
-src/
-results/
-figures/
-
 ## Results
 <img width="385" height="72" alt="image" src="https://github.com/user-attachments/assets/b77a207d-a4de-46e8-9d88-0e14a8e8da19" />
 <img width="815" height="218" alt="image" src="https://github.com/user-attachments/assets/e691b4de-a2a8-459b-80b6-300423b5233f" />
