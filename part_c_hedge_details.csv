@@ -1,0 +1,3 @@
+Stock,Net Delta (shares),Net Gamma,Net Vega (1%),Baseline Hedge (shares),Liquidity Haircut,Executed Hedge (shares),Residual Delta (shares),Slippage (bps),Slippage Cost
+HDFC Bank,231.57,8.2577,666.89,-231.57,0.5%,-230.41,1.16,2.0,36.73
+Nestle India,322.28,5.1689,1190.9,-322.28,28.5%,-230.43,91.85,16.0,512.62
